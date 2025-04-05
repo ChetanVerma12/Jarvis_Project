@@ -1,0 +1,294 @@
+[
+    {
+        "role": "user",
+        "content": " hello"
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "user",
+        "content": " hello"
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "user",
+        "content": " python -u \"d:\\Jarvis\\Main.py\""
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "user",
+        "content": " python -u \"d:\\Jarvis\\Main.py\""
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "user",
+        "content": " hello"
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "user",
+        "content": " (query)."
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "user",
+        "content": " hello"
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "user",
+        "content": " hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello! How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": " who is alon musk"
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Musk is a South African-born entrepreneur, inventor, and business magnate. He is the CEO and CTO of SpaceX, CEO and product architect of Tesla Inc., and co-founder of Neuralink and The Boring Company."
+    },
+    {
+        "role": "user",
+        "content": " (query)."
+    },
+    {
+        "role": "assistant",
+        "content": "Please rephrase or provide more context for the query. I'll be happy to help."
+    },
+    {
+        "role": "user",
+        "content": " (query)."
+    },
+    {
+        "role": "assistant",
+        "content": "Please rephrase or provide more context for the query. I'll be happy to help."
+    },
+    {
+        "role": "user",
+        "content": " How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm functioning properly, thank you for asking! I'm ready to assist you with any questions or topics you'd like to discuss."
+    },
+    {
+        "role": "user",
+        "content": " Who is doraemon?"
+    },
+    {
+        "role": "assistant",
+        "content": "Doraemon is a popular Japanese manga and anime character created by Fujiko Fujio. He is a robotic cat from the 22nd century who travels back in time to help a boy named Noby. Doraemon is known for his futuristic gadgets and his kind heart."
+    },
+    {
+        "role": "user",
+        "content": " Tell about pokemon."
+    },
+    {
+        "role": "assistant",
+        "content": "Pok\u00e9mon is a popular media franchise created by Satoshi Tajiri in 1996. It is centered around fictional creatures called \"Pok\u00e9mon\" that can be trained, battled, and collected by human trainers. The franchise includes anime, manga, video games, trading card games, and movies. The concept is to \"catch 'em all\" and become a Pok\u00e9mon Master."
+    },
+    {
+        "role": "user",
+        "content": " (query)."
+    },
+    {
+        "role": "assistant",
+        "content": "Please rephrase or provide more context for the query. I'll be happy to help."
+    },
+    {
+        "role": "user",
+        "content": " Gandhi ji ke bare mein bataiye hindi mein."
+    },
+    {
+        "role": "assistant",
+        "content": "Mohandas Karamchand Gandhi, also known as Mahatma Gandhi, was a prominent Indian independence activist who played a key role in India's struggle for independence from British rule. He is known for his philosophy of non-violent resistance, which has inspired movements for civil rights and freedom across the world."
+    },
+    {
+        "role": "user",
+        "content": " Modi ke bare mein batao."
+    },
+    {
+        "role": "assistant",
+        "content": "Narendra Damodardas Modi is an Indian politician serving as the 14th and current Prime Minister of India since 2014. He is a member of the Bharatiya Janata Party (BJP) and was the Chief Minister of Gujarat from 2001 to 2014."
+    },
+    {
+        "role": "user",
+        "content": " (query)."
+    },
+    {
+        "role": "assistant",
+        "content": "Please rephrase or provide more context for the query. I'll be happy to help."
+    },
+    {
+        "role": "user",
+        "content": "who is kaushik shresth?"
+    },
+    {
+        "role": "assistant",
+        "content": "Kaushik Shresth is an online educator, businessman, and programmer who is known for simplifying complex subjects with innovative teaching techniques."
+    },
+    {
+        "role": "user",
+        "content": "what is the stock price of apple"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided search results, the current stock price of Apple (AAPL) is around $221.53."
+    },
+    {
+        "role": "user",
+        "content": "python -u \"d:\\Jarvis\\Backend\\Chatbot.py\""
+    },
+    {
+        "role": "user",
+        "content": "what is stock price of tata"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided search results, the current stock price of Tata Motors is around \u20b9719.00."
+    },
+    {
+        "role": "user",
+        "content": "what is stock price of tata"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided search results, the current stock price of Tata Motors is around \u20b9713.50."
+    },
+    {
+        "role": "user",
+        "content": " hello"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello! How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "hello who is alon musk"
+    },
+    {
+        "role": "assistant",
+        "content": "Elon Musk is a businessman known for his key roles in Tesla, SpaceX, and Twitter. Since 2025, he has been a senior advisor to the United States president. He leads multiple major companies, including Tesla, SpaceX, and X, and has a net worth of about $400 billion in the first quarter of 2025."
+    },
+    {
+        "role": "user",
+        "content": "what is the network of elon musk"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, Elon Musk's network refers to his vision for a global satellite-based internet network with high-speed broadband, known as Starlink."
+    },
+    {
+        "role": "user",
+        "content": "what is time"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, time is the continuous progression of existence that occurs in an apparently irreversible succession from the past, through the present, and into the future. Physicists define time as the progression of events from the past to the present into the future. It is a dimension through which change happens, similar to the three spatial dimensions that describe position."
+    },
+    {
+        "role": "user",
+        "content": "python -u \"d:\\Jarvis\\Backend\\RealtimeSearchEngine.py\""
+    },
+    {
+        "role": "assistant",
+        "content": "It seems like you're trying to run a Python script. The command `python -u \"d:\\Jarvis\\Backend\\RealtimeSearchEngine.py\"` is used to execute a Python script named `RealtimeSearchEngine.py` located in the directory `d:\\Jarvis\\Backend`."
+    },
+    {
+        "role": "user",
+        "content": "what is time now"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided real-time information, the current time is Thursday, March 27, 2025, 19 hours, 27 minutes, and 44 seconds."
+    },
+    {
+        "role": "user",
+        "content": " How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm functioning properly, thank you for asking! I'm ready to assist you with any questions or topics you'd like to discuss."
+    },
+    {
+        "role": "user",
+        "content": " How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm functioning properly, thank you for asking! I'm ready to assist you with any questions or topics you'd like to discuss."
+    },
+    {
+        "role": "user",
+        "content": " My name."
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Aman Mobiya."
+    },
+    {
+        "role": "user",
+        "content": " What is the time now?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided real-time information, the current time is Thursday, March 27, 2025, 21 hours, 23 minutes, and 04 seconds."
+    },
+    {
+        "role": "user",
+        "content": "Tell me the stock price of tata motors."
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, the current stock price of Tata Motors is around \u20b9668.00."
+    },
+    {
+        "role": "user",
+        "content": " What is the time?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the provided real-time information, the current time is 14 hours, 39 minutes, and 03 seconds."
+    },
+    {
+        "role": "user",
+        "content": "Who is jaideep bhavya?"
+    },
+    {
+        "role": "assistant",
+        "content": "According to the search results, there are two individuals with similar names:\n\n1. Jaideep Shergill: He is an industry veteran with nearly 25 years of experience across banking, media, public relations, and communications, and brand and marketing functions.\n\n2. Bhavya Chohan: She is a Rajasthani actress and model.\n\nThere is no information available on a person named \"Jaideep Bhavya\"."
+    },
+    {
+        "role": "user",
+        "content": " Tell me something about ai."
+    },
+    {
+        "role": "assistant",
+        "content": "Artificial Intelligence (AI) refers to the development of computer systems that can perform tasks that typically require human intelligence, such as learning, problem-solving, decision-making, and perception. AI systems can analyze vast amounts of data, recognize patterns, and make predictions or decisions, often with greater speed and accuracy than humans. AI has numerous applications across industries, including healthcare, finance, transportation, and education, and has the potential to revolutionize the way we live and work."
+    }
+]
